@@ -1,0 +1,19 @@
+.unstyled {
+  background: none; /* No background */
+  color: inherit; /* Inherits text color from parent */
+  border: none; /* No border */
+  padding: 0; /* No padding */
+  font: inherit; /* Inherits font style from parent */
+  cursor: pointer; /* Keeps the cursor as a pointer to signify it's clickable */
+  outline: inherit; /* Inherits the outline style (for accessibility) */
+}
+
+.unstyled:hover {
+  background: none; /* No background */
+  color: inherit; /* Inherits text color from parent */
+  border: none; /* No border */
+  padding: 0; /* No padding */
+  font: inherit; /* Inherits font style from parent */
+  cursor: pointer; /* Keeps the cursor as a pointer to signify it's clickable */
+  outline: inherit; /* Inherits the outline style (for accessibility) */
+}
