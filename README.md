@@ -25,7 +25,9 @@ Run production build:
 
 `pnpm build`
 
-Add the necessary 
+Add the necessary environment variables specified in the `.env.example` file.
+
+Set up the auth schema in Supabase using the remote schema postgres file found in the `migrations` folder.
 
 ## Built With
 
@@ -42,4 +44,17 @@ Add the necessary
 * Extract recipes from a url
 * Save and edit recipes in your profile
 * Modify recipes based on preferences/dietary restrictions with the power of AI
-     
+
+## Demo
+Here are some screenshots from the promo page:
+
+![image](https://github.com/user-attachments/assets/e0b51d6a-5c13-41a1-b8a9-9b960304696c)
+
+![image](https://github.com/user-attachments/assets/c2bd07e2-ff35-43ba-9f56-e50526f91761)
+
+![image](https://github.com/user-attachments/assets/29a81687-9000-4a4b-8f57-ec0d045be0d7)
+
+![image](https://github.com/user-attachments/assets/e3c49f20-ec42-48cd-b53e-ff768d0b10d0)
+
+
+
